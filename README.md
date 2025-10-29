@@ -22,7 +22,7 @@ This repository includes:
 
 ## 📫 Contact
 Feel free to connect or reach out:
-- GitHub: [Your GitHub Link]
-- Email: [Your Email]
+- GitHub: [https://github.com/ximenacreates]
+- Email: [xcallejas7@gmaail.com]
 
 Thanks for visiting—and for witnessing my growth 💛
